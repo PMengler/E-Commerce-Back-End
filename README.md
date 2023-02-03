@@ -4,7 +4,7 @@
 
 ## Description
 
-The motivation behind this back-end application was to provide the back-end functionality for an existing front-end E-commerce website. Through the creation of this back-end app I learned a lot about the MVC framework and how it ties into CRUD routes.
+The motivation behind this back-end application was to provide the back-end functionality for an existing front-end E-commerce website. Through the creation of this back-end app I learned a lot about ORM (Object-Relational Mapping) and how it ties into CRUD routes.
 
 ## Table of Contents
 
